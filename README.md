@@ -1,2 +1,2 @@
-# tsx-basic-tutorial
+# React-Custom-Hooks-TypeScript
 Created with CodeSandbox
